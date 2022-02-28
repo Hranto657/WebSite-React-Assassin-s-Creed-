@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "God of War: Ascension",
+    "year": 2013,
+    "image": "https://i.pinimg.com/originals/8a/22/4d/8a224d2476972794f1da172441be15fd.jpg",
+    "price": 100,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 2,
+    "name": "GOW: Chains of Olympus",
+    "year": 2008,
+    "image": "https://i.pinimg.com/originals/83/1b/08/831b086c49b9b0fba9d0d27ceb8dac27.jpg",
+    "price": 200,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 3,
+    "name": "God of War",
+    "year": 2005,
+    "image": "https://wallpaperaccess.com/full/2546427.jpg",
+    "price": 300,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 4,
+    "name": "GOW: Ghost of Sparta",
+    "year": 2010,
+    "image": "https://www.nicepng.com/png/detail/981-9812028_god-of-war-ghost-of-sparta-roots-guru.png",
+    "price": 400,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 5,
+    "name": "God of War: Betrayal",
+    "year": 2007,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWZhNmE2YmQtNGU1MC00ZjY1LThjZDktN2RkNTIwM2E3NzE3XkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_.jpg",
+    "price": 500,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 6,
+    "name": "God of War II",
+    "year": 2007,
+    "image": "https://cubiq.ru/wp-content/uploads/2019/08/252px-Gow2-2.jpg",
+    "price": 600,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 7,
+    "name": "God of War III",
+    "year": 2010,
+    "image": "https://cdn.kanobu.ru/games/6790003a-07f8-406b-92f8-522e52b5c070.JPG",
+    "price": 700,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 8,
+    "name": "God of War (2018)",
+    "year": 2018,
+    "image": "https://otxatabs.net/uploads/posts/2022-02/1644247541_god-of-war.png",
+    "price": 800,
+    "basketCount": 0,
+    "sale": 40
+  },
+  {
+    "id": 9,
+    "name": "God of War: Ragnarök",
+    "year": 2020,
+    "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/god-of-war-ragnarok-keyart-01-en-07sep21.png",
+    "price": 900,
+    "basketCount": 0,
+    "sale": 40
+  }
+]

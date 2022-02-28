@@ -1,0 +1,47 @@
+[
+  { 
+    "id":1,
+    "name":"God of War: Ascension",
+    "desc":"was first released in North America on March 12, 2013, for the PlayStation 3."
+  },
+  {
+    "id":2,
+    "name":"God of War: Chains of Olympus",
+    "desc":"was first released in North America on March 4, 2008, for the PlayStation Portable."
+  },
+  {
+    "id":3,
+    "name":"God of War",
+    "desc":"was first released in North America on March 22, 2005, for the PlayStation 2."
+  },
+  {
+    "id":4,
+    "name":"God of War: Ghost of Sparta",
+    "desc":"was first released in North America on November 2, 2010, for the PlayStation Portable"
+  },
+  {
+    "id":5,
+    "name":"God of War: Betrayal",
+    "desc":"was released on June 20, 2007, for mobile phones supporting Java ME."
+  },
+  {
+    "id":6,
+    "name":"God of War II",
+    "desc":"was first released in North America on March 13, 2007, for the PlayStation 2."
+  },
+  {
+    "id":7,
+    "name":"God of War III",
+    "desc":"was first released in North America on March 16, 2010, for the PlayStation 3. "
+  },
+  {
+    "id":8,
+    "name":"God of War (2018)",
+    "desc":"was released worldwide on April 20, 2018, for the PlayStation 4. "
+  },
+  {
+    "id":9,
+    "name":"God of War: Ragnarök",
+    "desc":"was announced on September 16, 2020 and is scheduled to be released on the PlayStation 4 and the PlayStation 5 in 2022."
+  }
+]

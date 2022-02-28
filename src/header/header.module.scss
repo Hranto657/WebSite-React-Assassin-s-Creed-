@@ -1,0 +1,44 @@
+.img {
+  width: 150px;
+  height: 110px;
+}
+.menu>li {
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace ;
+  font-weight: 700;
+  margin-left: 30px;
+}
+.menu>li>a:hover {
+  color: #C6211D !important;
+}
+.menu>li>a {
+  color: #000000 !important;
+}
+
+@media screen and (max-width:1200px) {
+  .menu>li {
+    font-size: 35px;
+    margin-left: 25px;
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .menu>li {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width:700px) {
+  .menu>li {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+}
+@media screen and (max-width:700px) {
+  .menu>li {
+    font-size: 20px;
+    
+  }
+}
+

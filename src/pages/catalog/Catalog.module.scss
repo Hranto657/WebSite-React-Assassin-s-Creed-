@@ -1,0 +1,64 @@
+.bigbox {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.img{
+  width: 100px;
+  height: 100px;
+}
+.body>h1 {
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+.body>p {
+  margin-top: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+.add {
+  display: flex;
+  align-items: center;
+  flex-direction:column;
+}
+.price {
+  display:flex;
+  justify-content: space-between;
+}
+.price>p {
+  margin-top: 0;
+  margin-left: 10px;
+}
+.plbtn {
+  border: none;
+  border: 3px solid #212529;
+  background-color: green;
+  width: 50px;
+  height: 25px;
+  margin-left: 10px;
+}
+.mnbtn {
+  width: 50px;
+  height: 25px;
+  border: 3px solid #212529;
+  background-color: #C6211D;
+  margin-right: 10px;
+}
+.count {
+  font-size: 25px;
+}
+.basket {
+  border: 3px solid #212529;
+  background-color: transparent;
+  color: #C6211D;
+  font-weight: 700;
+}

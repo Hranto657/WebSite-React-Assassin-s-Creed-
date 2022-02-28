@@ -1,0 +1,38 @@
+.main {
+  min-height: 800px;
+  width: 100%;
+}
+.img {
+  float: left;
+  padding: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  width: 40%;
+  background-color: #212529;
+  border-radius: 40px;
+  width: 400px;
+  height: 400px;
+}
+.text {
+  width: 95%;
+}
+.h1 {
+  font-size: 50px;
+  padding: 15px;
+  color: #000000;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace ;
+}
+.h1>span {
+  color: #C6211D ;
+}
+.text>p {
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  color: #000000;
+  margin-left: 15px;
+}
