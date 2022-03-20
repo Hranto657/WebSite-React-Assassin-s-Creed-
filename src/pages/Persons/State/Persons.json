@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Альтаир ибн Ла-Ахад",
+    "info": [
+      {
+        "image": "https://img1.goodfon.ru/wallpaper/nbig/d/f2/assassin-s-creed-assassins-2892.jpg",
+        "nationality": "Сарацин",
+        "country": "Масиаф",
+        "city": "Масиаф",
+        "father": "Умар ибн Ла-Ахад",
+        "mother": "Мод",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Эцио Аудиторе Да Фиренце",
+    "info": [
+      {
+        "image": "https://wallpaperaccess.com/full/4636538.jpg",
+        "nationality": "Италианец",
+        "country": "Флоренция, Италия",
+        "city": "Флоренция",
+        "father": "Джованни Аудиторе",
+        "mother": "Мария Аудиторе",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Коннор Кенуей",
+    "info": [
+      {
+        "image": "https://wallpaperbat.com/img/419766-download-1920x1080-connor-kenway-assassins-creed-iii-wallpaper.jpg",
+        "nationality": "Американец",
+        "country": "Ганадазедон",
+        "city": "Ганадазедон",
+        "father": "Хэйтем Кенуэй",
+        "mother": "Гадзидзио",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Эдвард Кенуей",
+    "info": [
+      {
+        "image": "https://img1.goodfon.ru/wallpaper/nbig/f/6a/assassin-s-creed-iv-black-4830.jpg",
+        "nationality": "Англичанин",
+        "country": "Королевство Англии",
+        "city": "Суонси, Уэльс",
+        "father": " Бернард Кенуэй",
+        "mother": "Лайнетт Хопкинс",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Арно Дориан",
+    "info": [
+      {
+        "image": "https://p4.wallpaperbetter.com/wallpaper/629/945/241/arno-dorian-assassins-creed-unity-video-games-wallpaper-preview.jpg",
+        "nationality": "Француз",
+        "country": "Королевство Франции",
+        "city": "Версаль",
+        "father": "Шарля Дориан",
+        "mother": "Мари",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Шао Цзюнь",
+    "info": [
+      {
+        "image": "https://gamebomb.ru/files/galleries/001/d/d6/298966.jpg",
+        "nationality": "Китаянка",
+        "country": "Империя династии Мин",
+        "city": "Пекин",
+        "father": "Неизвестно",
+        "mother": "Неизвестно",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Иви и Джейкоб Фрай",
+    "info": [
+      {
+        "image": "https://p4.wallpaperbetter.com/wallpaper/753/1024/941/assassin-s-creed-assassin-s-creed-syndicate-evie-frye-jacob-frye-wallpaper-thumb.jpg",
+        "nationality": "Англичанин",
+        "country": "Великобритания",
+        "city": "Кроули",
+        "father": "Итан Фрай",
+        "mother": "Сесили Фрай",
+        "special": "Ассассин"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Авелина де Гранпре",
+    "info": [
+      {
+        "image": "https://p4.wallpaperbetter.com/wallpaper/512/793/166/look-girl-killer-blade-wallpaper-preview.jpg",
+        "nationality": "Француженка",
+        "country": "Новая Франция",
+        "city": "Новый Орлеан, Луизиана,",
+        "father": " Филиппа Оливье де Грандпре",
+        "mother": "Жанна",
+        "special": "Ассассин"
+      }
+    ]
+  }
+]

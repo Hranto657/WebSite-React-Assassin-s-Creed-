@@ -1,47 +1,58 @@
 .main {
   width: 100%;
-  min-height: 800px;
-  background-color: red !important;
+  min-height: 1000px;
+  background-image: url();
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
 }
 .h1 {
+  text-align: center;
   font-size: 45px;
-  color: #C6211D;
+  color: #7b191e;
   padding: 15px;
   font-weight: 700;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .list {
   list-style: none;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   margin-top: 15px;
 }
-.list:hover {
-  cursor: pointer;
-  color: #C6211D;
-}
 .title {
-  font-size: 30px;
+  height: 55px;
+  width: 45%;
+  color: white;
+  font-size: 40px;
   font-weight: 700;
+  background-color: #4b4c56;
+  border-radius: 20px;
+  padding-left: 20px;
 }
 .desc {
-  font-size: 20px;
+  color: #4b4c56;
+  margin-top: 10px;
+  font-size: 27px;
   font-weight: 500;
   margin-left: 10px;
   display: flex;
   flex-wrap: wrap;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-.btn {
-  width:250px;
-  height: 50px;
-  margin: 10px;
-  border: none;
-  border: 5px solid #C6211D;
-  background-color: white;
 
+.btn {
+  width: 250px;
+  height: 50px;
+  margin: 15px;
+  border: none;
+  border: 5px solid #7b191e;
+  background-color: white;
+  border-radius: 15px;
 }
 .btn:hover {
-  background-color: #212529;
+  background-color: #4b4c56;
   border-color: white;
 }
 .link {
@@ -51,5 +62,98 @@
   font-weight: 700;
 }
 .link:hover {
-  color: #C6211D;
+  color: #7b191e;
 }
+.akard {
+  display: flex;
+  flex-direction: column;
+}
+.akardbtn {
+  margin-top: 10px;
+  border: none;
+  background-color: transparent;
+}
+.akardbtn > img {
+  width: 55px;
+  height: 50px;
+}
+.maindiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.maindiv > video {
+  margin-left: 10px;
+  border-radius: 30px;
+}
+.gametext {
+  font-size: 22px;
+  font-weight: 500;
+  color: #4b4c56;
+  padding-left: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+@media screen and (max-width: 750px) {
+  .gametext {
+    font-size: 20px;
+  }
+  .desc {
+    font-size: 20px;
+  }
+  .title {
+    font-size: 25px;
+    padding-top: 12px;
+    height: 80px;
+  }
+  .h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .gametext {
+    font-size: 16px;
+  }
+  .desc {
+    font-size: 16px;
+  }
+  .title {
+    font-size: 25px;
+    padding-top: 11px;
+  }
+  .h1 {
+    font-size: 30px;
+  }
+  .akardbtn > img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .gametext {
+    font-size: 16px;
+  }
+  .desc {
+    font-size: 16px;
+  }
+  .title {
+    font-size: 20px;
+    padding-top: 11px;
+  }
+  .akardbtn > img {
+    width: 30px;
+    height: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link {
+    font-size: 15px;
+  }
+
+}
+
+

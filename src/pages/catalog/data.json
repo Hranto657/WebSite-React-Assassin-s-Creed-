@@ -1,83 +1,110 @@
 [
   {
     "id": 1,
-    "name": "God of War: Ascension",
-    "year": 2013,
-    "image": "https://i.pinimg.com/originals/8a/22/4d/8a224d2476972794f1da172441be15fd.jpg",
+    "name": "Assassin's Creed",
+    "year": 2008,
     "price": 100,
     "basketCount": 0,
-    "sale": 40
+    "sale": 10,
+    "photo":"https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg"
   },
   {
     "id": 2,
-    "name": "GOW: Chains of Olympus",
-    "year": 2008,
-    "image": "https://i.pinimg.com/originals/83/1b/08/831b086c49b9b0fba9d0d27ceb8dac27.jpg",
+    "name": "Assassin's Creed II",
+    "year": 2010,
     "price": 200,
     "basketCount": 0,
-    "sale": 40
+    "sale": 15,
+    "photo":"https://upload.wikimedia.org/wikipedia/ru/e/ee/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Assassins_Creed_2.jpg"
   },
   {
     "id": 3,
-    "name": "God of War",
-    "year": 2005,
-    "image": "https://wallpaperaccess.com/full/2546427.jpg",
+    "name": "Assassin's Creed Brotherhood",
+    "year": 2011,
     "price": 300,
     "basketCount": 0,
-    "sale": 40
+    "sale": 20,
+    "photo":"https://upload.wikimedia.org/wikipedia/en/2/2a/Assassins_Creed_brotherhood_cover.jpg"
   },
   {
     "id": 4,
-    "name": "GOW: Ghost of Sparta",
-    "year": 2010,
-    "image": "https://www.nicepng.com/png/detail/981-9812028_god-of-war-ghost-of-sparta-roots-guru.png",
+    "name": "Assassin's Creed Revelations",
+    "year": 2011,
     "price": 400,
     "basketCount": 0,
-    "sale": 40
+    "sale": 25,
+    "photo":"https://upload.wikimedia.org/wikipedia/ru/d/d9/Assassins_Creed_Revelations_Cover.jpg"
   },
   {
     "id": 5,
-    "name": "God of War: Betrayal",
-    "year": 2007,
-    "image": "https://m.media-amazon.com/images/M/MV5BNWZhNmE2YmQtNGU1MC00ZjY1LThjZDktN2RkNTIwM2E3NzE3XkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_.jpg",
+    "name": "Assassin's Creed III",
+    "year": 2012,
     "price": 500,
     "basketCount": 0,
-    "sale": 40
+    "sale": 30,
+    "photo":"https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/AC3_OST_cover.jpg/274px-AC3_OST_cover.jpg"
   },
   {
     "id": 6,
-    "name": "God of War II",
-    "year": 2007,
-    "image": "https://cubiq.ru/wp-content/uploads/2019/08/252px-Gow2-2.jpg",
+    "name": "Assassin's Creed IV Black Flag",
+    "year": 2013,
     "price": 600,
     "basketCount": 0,
-    "sale": 40
+    "sale": 35,
+    "photo":"https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg"
   },
   {
     "id": 7,
-    "name": "God of War III",
-    "year": 2010,
-    "image": "https://cdn.kanobu.ru/games/6790003a-07f8-406b-92f8-522e52b5c070.JPG",
+    "name": "Assassin's Creed Unity",
+    "year": 2014,
     "price": 700,
     "basketCount": 0,
-    "sale": 40
+    "sale": 40,
+    "photo":"https://cdn.europosters.eu/image/750/posters/assassin-s-creed-unity-cover-i22385.jpg"
   },
   {
     "id": 8,
-    "name": "God of War (2018)",
-    "year": 2018,
-    "image": "https://otxatabs.net/uploads/posts/2022-02/1644247541_god-of-war.png",
+    "name": "Assassin's Creed Rogue",
+    "year": 2015,
     "price": 800,
     "basketCount": 0,
-    "sale": 40
+    "sale": 55,
+    "photo":"https://upload.wikimedia.org/wikipedia/en/a/ae/Assassin%27s_Creed_Rogue.jpg"
   },
   {
     "id": 9,
-    "name": "God of War: Ragnarök",
-    "year": 2020,
-    "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/god-of-war-ragnarok-keyart-01-en-07sep21.png",
+    "name": "Assassin's Creed Syndicate",
+    "year": 2015,
     "price": 900,
     "basketCount": 0,
-    "sale": 40
+    "sale": 25,
+    "photo":"https://images-na.ssl-images-amazon.com/images/I/71FmZGgGRhL.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Assassin's Creed Origins",
+    "year": 2017,
+    "price": 1000,
+    "basketCount": 0,
+    "sale": 15,
+    "photo":"https://cdn.cdkeys.com/700x700/media/catalog/product/a/s/assassin_s_creed__origins_pc.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Assassin's Creed Odyssey",
+    "year": 2018,
+    "price": 1100,
+    "basketCount": 0,
+    "sale": 45,
+    "photo":"https://upload.wikimedia.org/wikipedia/ru/2/2c/Assassin%E2%80%99s_Creed_Odyssey.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Assassin's Creed Valhalla",
+    "year": 2020,
+    "price": 1200,
+    "basketCount": 0,
+    "sale": 35,
+    "photo":"https://upload.wikimedia.org/wikipedia/ru/2/26/AC_Valhalla_standard_edition.jpg"
   }
 ]

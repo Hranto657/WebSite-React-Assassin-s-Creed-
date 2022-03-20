@@ -1,0 +1,102 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .5s;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modalContent {
+  width: 450px;
+  height: 450px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: white;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.input {
+  width: 160px;
+  height: 45px;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 10px;
+  margin-left: 5px;
+  margin-top: 15px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  color: #7B191E;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.input::-webkit-input-placeholder {
+  color: #7B191E;
+  font-size: 20px;
+  font-weight: 600;
+}
+.input:first-child {
+  margin-right: 20px;
+}
+.check {
+  margin-top: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.check>input {
+  margin-top: 8px;
+  margin-right: 5px;
+  width: 17px;
+  height: 17px;
+}
+.check>p {
+  font-size: 18px;
+  color: #7B191E;
+  font-size: 20px;
+  font-weight: 600;
+}
+.mainbtn {
+  display: flex;
+  justify-content:center;
+  margin-top: 40px;
+}
+.signinbtn {
+  width: 120px;
+  height: 40px;
+  margin-right: 20px;
+  font-size: 19px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  border: 3px solid #7B191E;
+  background-color: transparent;
+  color: black;
+}
+.signinbtn:hover {
+  border: none;
+  background-color: #085308;
+}
+.clearbtn {
+  width: 120px;
+  height: 40px;
+  font-size: 19px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  border: 3px solid #7B191E;
+  background-color: transparent;
+  color: black;
+}
+.clearbtn:hover {
+  border: none;
+  background-color: #7B191E;
+}

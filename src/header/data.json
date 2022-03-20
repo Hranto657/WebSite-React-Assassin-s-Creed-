@@ -1,22 +1,22 @@
 [
   {
-    "id":1,
-    "name":"Games",
+    "id": 1,
+    "name": "Игры",
     "href": "games"
   },
   {
-    "id":2,
-    "name":"Gameplay",
-    "href":"story"
+    "id": 2,
+    "name": "Геймплей",
+    "href": "story"
   },
   {
-    "id":3,
-    "name":"Protagonist",
-    "href":"kratos"
+    "id": 3,
+    "name": "Персонажы",
+    "href": "persons"
   },
   {
-    "id":4,
-    "name":"Basket",
-    "href":"basket"
+    "id": 4,
+    "name": "Корзина",
+    "href": "basket"
   }
 ]

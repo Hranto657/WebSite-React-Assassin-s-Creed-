@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAC;EACF,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;EACd,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,yDAAyD;CACvE;;AACD,AAAA,KAAK,GAAC,CAAC,CAAC;EACN,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,mJAED;EACZ,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB",
+    "sources": [
+        "story.module.scss"
+    ],
+    "names": [],
+    "file": "story.module.css"
+}

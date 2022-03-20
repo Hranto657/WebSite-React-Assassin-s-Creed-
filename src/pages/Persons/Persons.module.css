@@ -1,6 +1,9 @@
 .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
+
 .h1 {
   font-size: 45px;
   color: #C6211D;
@@ -8,69 +11,84 @@
   font-weight: 700;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 .sidebar {
   width: 35%;
 }
-.sidebar>h1 {
+
+.sidebar > h1 {
   margin-top: 40px;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   color: #C6211D;
   font-size: 45px;
   font-weight: 700;
 }
 
-.sidebar>h2 {
+.sidebar > h2 {
   margin: 0 auto;
 }
+
 .text {
   width: 65%;
   margin-left: 20px;
 }
-.text>p {
-  padding:50px 25px 25px 25px;
+
+.text > p {
+  padding: 50px 25px 25px 25px;
   font-size: 20px;
 }
+
 .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
   margin-left: 100px;
 }
-.box>h1 {
+
+.box > h1 {
   font-size: 30px;
   color: #C6211D;
   font-weight: 700;
 }
-.box>p {
+
+.box > p {
   margin-top: 10px;
   margin-left: 15px;
   font-size: 25px;
   font-weight: 600;
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width: 1200px) {
   .text {
     margin-left: 0px;
   }
-  .text>p {
+  .text > p {
     font-size: 18px;
   }
-  .sidebar>h1 {
+  .sidebar > h1 {
     font-size: 35px;
   }
-  .sidebar>img {
+  .sidebar > img {
     width: 400px;
     height: 400px;
   }
-  .box>h1 {
+  .box > h1 {
     font-size: 25px;
   }
-  .box>p {
+  .box > p {
     font-size: 20px;
   }
 }
 
-@media screen and (max-width:1000px) {
+@media screen and (max-width: 1000px) {
   .sidebar {
     width: 30%;
   }
@@ -78,29 +96,29 @@
     width: 70%;
     margin-left: 0px;
   }
-  .text>p {
+  .text > p {
     font-size: 16px;
   }
-  .sidebar>h1 {
+  .sidebar > h1 {
     font-size: 30px;
   }
-  .sidebar>img {
+  .sidebar > img {
     width: 300px;
     height: 300px;
   }
   .box {
     margin-left: 60px;
   }
-  .box>h1 {
+  .box > h1 {
     font-size: 18px;
   }
-  .box>p {
+  .box > p {
     font-size: 14px;
     margin-left: 5px;
   }
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width: 800px) {
   .sidebar {
     width: 25%;
   }
@@ -108,73 +126,72 @@
     width: 75%;
     margin-left: 0px;
   }
-  .sidebar>img {
+  .sidebar > img {
     width: 200px;
     height: 200px;
   }
-  .text>p {
+  .text > p {
     font-size: 14px;
   }
   .box {
     margin-left: 40px;
   }
-  .box>h1 {
+  .box > h1 {
     font-size: 16px;
   }
-  .box>p {
+  .box > p {
     font-size: 10px;
     margin-left: 5px;
   }
 }
 
-@media screen and (max-width:700px) {
-  .sidebar>img {
+@media screen and (max-width: 700px) {
+  .sidebar > img {
     width: 150px;
     height: 150px;
   }
-  .sidebar>h1 {
+  .sidebar > h1 {
     font-size: 25px;
   }
-  .text>p {
+  .text > p {
     font-size: 12px;
   }
   .box {
     margin-left: 30px;
   }
-  .box>h1 {
+  .box > h1 {
     font-size: 12px;
     font-weight: 600;
   }
-  .box>p {
+  .box > p {
     font-size: 10px;
     margin-left: 5px;
   }
 }
 
-@media screen and (max-width:600px) {
-  .sidebar>img {
+@media screen and (max-width: 600px) {
+  .sidebar > img {
     width: 100px;
     height: 100px;
   }
-  .sidebar>h1 {
+  .sidebar > h1 {
     font-size: 20px;
     text-align: start !important;
     margin-left: 5px;
   }
-  .text>p {
+  .text > p {
     font-size: 12px;
   }
   .box {
     margin-left: 10px;
   }
-  .box>h1 {
+  .box > h1 {
     font-size: 12px;
     font-weight: 600;
   }
-  .box>p {
+  .box > p {
     font-size: 12px;
     margin-left: 5px;
   }
 }
-
-
+/*# sourceMappingURL=kratos.module.css.map */

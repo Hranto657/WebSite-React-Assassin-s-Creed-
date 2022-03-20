@@ -1,0 +1,138 @@
+.main {
+  width: 100%;
+  min-height: 1000px;
+  background-image: url();
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 10px;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 45px;
+  color: #7B191E;
+  padding: 15px;
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list {
+  list-style: none;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 15px;
+}
+
+.title {
+  height: 55px;
+  width: 45%;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  background-color: #4B4C56;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+
+.desc {
+  color: #4B4C56;
+  margin-top: 10px;
+  font-size: 27px;
+  font-weight: 500;
+  margin-left: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn {
+  width: 250px;
+  height: 50px;
+  margin: 15px;
+  border: none;
+  border: 5px solid #7B191E;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.btn:hover {
+  background-color: #4B4C56;
+  border-color: white;
+}
+
+.link {
+  font-size: 22px;
+  text-decoration: none;
+  color: #212529;
+  font-weight: 700;
+}
+
+.link:hover {
+  color: #7B191E;
+}
+
+.akard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.akardbtn {
+  margin-top: 10px;
+  border: none;
+  background-color: transparent;
+}
+
+.akardbtn > img {
+  width: 55px;
+  height: 50px;
+}
+
+.maindiv {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.maindiv > video {
+  margin-left: 10px;
+  border-radius: 30px;
+}
+
+@media screen and (min-width: 400px) {
+  .main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .akard {
+    margin-right: 10px;
+  }
+}
+/*# sourceMappingURL=games.module.css.map */

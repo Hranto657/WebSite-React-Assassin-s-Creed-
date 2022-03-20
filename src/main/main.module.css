@@ -1,0 +1,82 @@
+.main {
+  min-height: 800px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.img {
+  margin: 0 auto !important;
+  margin-top: 15px !important;
+  border-radius: 40px !important;
+  width: 100% !important;
+  height: 600px !important;
+}
+
+.text {
+  width: 100%;
+}
+
+.h1 {
+  font-size: 60px;
+  padding: 15px;
+  color: #212529;
+  font-weight: bolder;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.h1 > span {
+  color: #7B191E;
+  text-transform: capitalize;
+}
+
+.text > p {
+  font-size: 23px;
+  font-family: 'Ubuntu';
+  color: #212529;
+}
+
+.bigbox {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.box:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  -webkit-transition: 1.2s;
+  transition: 1.2s;
+}
+
+.box:hover h1 {
+  display: block;
+}
+
+.box > h1 {
+  display: none;
+  color: #212529;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+/*# sourceMappingURL=main.module.css.map */
